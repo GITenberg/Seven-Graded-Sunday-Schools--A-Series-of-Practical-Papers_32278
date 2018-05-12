@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33676
     wikipedia: http://en.wikipedia.org/wiki/Jesse_Lyman_Hurlbut
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32278#Seven-Graded-Sunday-Schools--A-Series-of-Practical-Papers
 gutenberg_issued: '2010-05-07'
 gutenberg_type: Text
 identifiers:
